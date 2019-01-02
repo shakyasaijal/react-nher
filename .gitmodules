@@ -1,0 +1,3 @@
+[submodule "nher-assets"]
+	path = nher-assets
+	url = https://github.com/sshakya270/nher.git
